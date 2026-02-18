@@ -1,4 +1,4 @@
-# 🇬🇧 eBay Description Generator
+# 🇬🇧 eBay Classic British Car Description Generator
 
 Professional eBay listing generator for classic British car parts. Create formatted descriptions instantly with proper fitment info, condition details, and authentic British motoring terminology.
 
